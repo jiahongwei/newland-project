@@ -1,0 +1,1 @@
+[{"assetName":"\u7535\u8111","RFID":"e2003412013eff00006727f31420","brwPhone":"18811146636","Price":100,"state":"in","specification":"zx5525","outPrm":"y","storageId":3}]

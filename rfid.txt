@@ -1,0 +1,1 @@
+[{"RFID":"e200302863060209216037c3","assetName":"xin","specification":"big","Price":"100","storageId":"2","outPrm":"y","brwPhone":"110","state":"in"},{"RFID":"e200302863060164232027f3","assetName":"zhao","specification":"small","Price":"90","storageId":"3","outPrm":"y","brwPhone":"120","state":""}]

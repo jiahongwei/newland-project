@@ -1,0 +1,1 @@
+{"assetName":"饮料","assetId":"999","brwPhone":"18811412760","Price":"100","state":"in","specification":"中","outPrm":"y","storageId":"2"}

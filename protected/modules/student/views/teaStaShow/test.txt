@@ -1,0 +1,1 @@
+SELECT *,COUNT(st_course.courseId) AS c1,COUNT(st_class_time.classTimeId) AS c2 FROM st_course,st_absent,st_class_time WHERE teacherId = '2' and st_course.courseId = st_class_time.courseId  AND st_class_time.classTimeId = st_absent.classTimeId AND st_class_time.classDate<NOW() GROUP BY st_course.courseId

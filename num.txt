@@ -1,0 +1,1 @@
+{"assetName":"面包","assetId":"333","brwPhone":"18273905741","Price":"50","state":"in","specification":"大","outPrm":"y","storageId":"2"}
